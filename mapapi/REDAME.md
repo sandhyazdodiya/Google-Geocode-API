@@ -30,7 +30,7 @@ $ python manage.py runserver
 ```
 ### Modules:
 ```
-1.mapapi
+1.app
 ```
 ### Backend API
 ##### Endpoints

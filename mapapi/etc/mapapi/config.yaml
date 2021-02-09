@@ -1,0 +1,6 @@
+main:
+    debug: True
+
+google_mapapi:
+    base_url : https://maps.googleapis.com/maps/api/geocode/
+    key : YOUR_API_KEY
